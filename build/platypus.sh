@@ -1,1 +1,1 @@
-/usr/local/bin/platypus -R  -i '/Applications/System Preferences.app/Contents/Resources/PrefApp.icns'  -a '32 Bit System Preferences'  -o 'None' -p '/bin/sh'  -I com.kyleheyne.32BitSystemPreferences  '/Users/kyleheyne/Desktop/32-Bit-System-Preferences.sh'
+/usr/local/bin/platypus -BR  -i '/Applications/System Preferences.app/Contents/Resources/PrefApp.icns'  -a '32-Bit System Preferences'  -o 'None' -p '/bin/sh'  -I org.kyleheyne.32BitSystemPreferences  '/Users/kyleheyne/Desktop/32-Bit-System-Preferences.sh'
